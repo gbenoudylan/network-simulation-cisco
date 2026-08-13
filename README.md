@@ -42,7 +42,7 @@ docs/plan-adressage.md — plan VLAN/IP
 docs/schema-architecture.png — export visuel de la topologie
  Pour ouvrir le projet
 Installer Cisco Packet Tracer (gratuit avec un compte Cisco Networking Academy)
-Ouvrir le fichier network-simulation.pkt
+Ouvrir le fichier ecobank.pkt
 Explorer la topologie, les configurations des équipements et les tests de connectivité (ping, traceroute, show ip route)
  Compétences mobilisées
 
